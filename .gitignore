@@ -1,2 +1,3 @@
+#node_modules hide
 /backend/node_modules
 /frontend/node_modules
